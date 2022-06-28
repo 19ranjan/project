@@ -1,0 +1,17 @@
+body{
+    position:absolute;
+}
+.one{
+  position:fixed;
+  width:400px;
+  height:500px;
+
+
+}
+.first{
+  positon:relative;
+  right:10px;
+  left: 500px;
+  top:50px;
+  text-align:right;
+}

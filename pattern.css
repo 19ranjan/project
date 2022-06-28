@@ -1,0 +1,161 @@
+.one{
+
+  border:30px;
+  text-align: center;
+
+  margin-left:auto;
+  width:300px;
+  display: inline-block;
+  position: absolute;
+
+border:3px solid #ff00bf;
+padding:50px 0;
+background-color: white;
+}
+.two{
+
+  border:30px;
+  align: center;
+display: inline-block;
+  margin-right:auto;
+  width:300px;
+  position: relative;
+left:450px;
+border:3px solid #ff00bf;
+padding:50px 0;
+background-color: white;
+}
+.three{
+  border:30px;
+background-color: white;
+
+  margin-right:auto;
+  width:300px;
+display: inline-block;
+border:3px solid #ff00bf;
+padding:100px 0;
+position: relative;
+left:5px;
+padding:50px 0;
+}
+.price-1{
+border:3px solid #ff00bf;
+  font-family:'Brush Script MT', cursive ;
+  position: absolute;
+  left:10px;
+  font-size: 50px;
+background-color: LightGray;
+border: bold;
+}
+
+.price-2{border:3px solid #ff00bf;
+
+  font-family:'Brush Script MT', cursive ;
+  position: absolute;
+  left:500px;
+  font-size: 50px;
+  background-color: LightGray;
+
+
+}
+.price-3{border:3px solid #ff00bf;
+
+  font-family:'Brush Script MT', cursive ;
+  position: absolute;
+
+  left:1000px;
+  font-size: 50px;
+  background-color: LightGray;
+}
+.four{
+
+  border:30px;
+  text-align: center;
+
+  margin-left:auto;
+  width:300px;
+  display: inline-block;
+  position: absolute;
+
+border:3px solid #ff00bf;
+padding:50px 0;
+background-color: white;
+
+}
+.five{
+
+  border:30px;
+  align: center;
+display: inline-block;
+  margin-right:auto;
+  width:300px;
+  position: relative;
+left:450px;
+border:3px solid #ff00bf;
+padding:50px 0;
+background-color: white;
+
+}
+.six{
+  border:30px;
+background-color: white;
+
+  margin-right:auto;
+  width:300px;
+  height: 300px;
+display: inline-block;
+border:3px solid #ff00bf;
+padding:100px 0;
+position: relative;
+left:5px;
+padding:50px 0;
+}
+.price-4{border:3px solid #ff00bf;
+
+  font-family:'Brush Script MT', cursive ;
+  position: absolute;
+  left:10px;
+  font-size: 50px;
+background-color: LightGray;
+border: bold;
+}
+
+.price-5{border:3px solid #ff00bf;
+
+  font-family:'Brush Script MT', cursive ;
+  position: absolute;
+  left:500px;
+  font-size: 50px;
+  background-color: LightGray;
+
+
+}
+.price-6{
+border:3px solid #ff00bf;
+  font-family:'Brush Script MT', cursive ;
+  position: absolute;
+
+  left:1000px;
+  font-size: 50px;
+  background-color: LightGray;
+
+}
+.intro{
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Papyrus',cursive;
+  font-style: bold;
+}
+body{
+  background-image: url("pink-wall.jpg")
+}
+.heel{
+  font-size: 25px;
+  position: absolute;
+  left:250px;
+  font-style: bold;
+
+
+
+  text-align: center;
+}
